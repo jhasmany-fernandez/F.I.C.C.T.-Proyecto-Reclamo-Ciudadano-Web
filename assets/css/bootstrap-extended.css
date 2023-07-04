@@ -310,6 +310,16 @@
 	background-color: #067034;
 	border-color: #8cbf44
 }
+.btn-terciaria {
+	color: #fff;
+	background-color: #b9341c;
+	border-color: #660b05
+}
+.btn-terciaria:hover {
+	color: #fff;
+	background-color: #660b05;
+	border-color: #b9341c
+}
 .btn-check:focus+.btn-primary, .btn-primary:focus {
 	color: #fff;
 	background-color: #0b5ed7;
