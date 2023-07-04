@@ -310,12 +310,12 @@
 	background-color: #067034;
 	border-color: #8cbf44
 }
-.btn-terciaria {
+.btn-tertiary {
 	color: #fff;
 	background-color: #b9341c;
 	border-color: #660b05
 }
-.btn-terciaria:hover {
+.btn-tertiary:hover {
 	color: #fff;
 	background-color: #660b05;
 	border-color: #b9341c
